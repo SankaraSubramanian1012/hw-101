@@ -5,4 +5,4 @@ THE ABOVE IS ONE OF THE TASK OF DAY 1 TASK 1
 
 
 
-![IMAGE ALT]([https://github.com/SankaraSubramanian1012/hw-101/blob/main/TASK%202/WhatsApp%20Image%202025-02-20%20at%2021.02.26_dd3c70e0.jpg](https://github.com/SankaraSubramanian1012/hw-101/blob/main/TASK%202/WhatsApp%20Image%202025-02-20%20at%2021.02.14_b4a8c4c1.jpg))
+![IMAGE ALT]([https://github.com/SankaraSubramanian1012/hw-101/blob/main/TASK%202/WhatsApp%20Image%202025-02-20%20at%2021.02.26_dd3c70e0.jpg]
