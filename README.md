@@ -9,5 +9,5 @@ THE ABOVE IS ONE OF THE TASK OF DAY 1 TASK 1
 
 THE ABOVE IS ONE OF THE TASK OF DAY 1 TASK 2
 
-![IMAGE ALT](https://github.com/SankaraSubramanian1012/hw-101/blob/main/TASK%203/WhatsApp%20Image%202025-02-22%20at%2008.38.27_0e6b9dfe.jpg))
+![IMAGE ALT](https://github.com/SankaraSubramanian1012/hw-101/blob/main/TASK%203/WhatsApp%20Image%202025-02-22%20at%2008.38.27_0e6b9dfe.jpg)
 THE ABOVE IS ONE OF THE TASK OF DAY 3
